@@ -8,7 +8,7 @@ export default function CasesList() {
     <Layout>
       <h1 style={{ fontSize: 28 }}>FlowHub Case Review</h1>
       <p style={{ opacity: 0.75 }}>
-        Reviewing (hopefully) realistic customer scenarios from a Lovable-built workspace.
+        Reviewing (hopefully) realistic customer scenarios from a Lovable-built workspace. Each case references a live demo workspace.
       </p>
       <p style={{ opacity: 0.75, maxWidth: 600 }}>
         Each case represents an example of a customer situation. Click into a case to see
