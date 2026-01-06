@@ -3,6 +3,8 @@
 This project demonstrates how I might approach real customer scenarios at the intersection of
 technical problem-solving and customer success.
 
+Live demo: [lovable-case-review.vercel.app](https://lovable-case-review.vercel.app)
+
 ## What this is
 - A Lovable-built workspace (FlowHub) representing a real product customers interact with
 - A lightweight Case Review tool showing how I:
